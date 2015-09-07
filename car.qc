@@ -1,5 +1,5 @@
 /*
-	client.qc
+	car.qc
 
 	6DOF player rotation
 
